@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Here are some ideas to get you started:
 
 - 🔭 I’m currently working on - Solving pain points around e-learning and e-teaching at [SubNub](https://twitter.com/subnubapp).
-- 🌱 I’m currently learning - How to build and run startups.
+- 🌱 I’m currently learning - How to build, run & scale startups.
 - 👯 I’m looking to collaborate on - User research to understand pain points around e-learning and e-teaching.
 - 🤔 I’m looking for help with [product engineering at SubNub](https://www.notion.so/abhisek/Careers-At-SubNub-351420002a8047ce8c14ee9d50598bfa)
 - 💬 Ask me about [Product & Platform Engineering](https://www.linkedin.com/in/abhisekpadhi/)
