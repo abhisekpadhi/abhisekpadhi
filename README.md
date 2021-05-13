@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## Here are some ideas to get you started:
 
-- 🔭 I’m currently working on - Exploring edtech market.
+- 🔭 I’m currently working on - SubNub.com
 - 🌱 I’m currently learning - How to build, run & scale startups.
-- 👯 I’m looking to collaborate on - User research to understand pain points around e-learning and e-teaching.
+- 👯 I’m looking to collaborate on - User research to build conviction around new types of social networking.
 - 💬 Ask me about [Product & Platform Engineering](https://www.linkedin.com/in/abhisekpadhi/)
 - 📫 How to reach me: `abhisek@padhi.io`
 - 😄 Pronouns: `he/him`
