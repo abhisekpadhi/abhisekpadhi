@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## Here are some ideas to get you started:
 
-- 🔭 I’m currently working on - [SubNub](https://subnub.com)
+<!-- - 🔭 I’m currently working on - [SubNub](https://subnub.com) -->
 - 🌱 I’m currently learning - How to run & scale startups.
 - 👯 I’m looking to collaborate on - Comunity building, user retention & revenue generation for social networking business.
 - 💬 Ask me about [Product & Platform Engineering](https://www.linkedin.com/in/abhisekpadhi/)
-- 📫 How to reach me: `abhisek@subnub.com`
+- 📫 How to reach me: `abhisek@padhi.io`
 - 😄 Pronouns: `he/him`
